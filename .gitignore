@@ -1,0 +1,9 @@
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.pch
+*.log
+*.bak
+*.tmp
+*.swp
